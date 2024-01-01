@@ -24,14 +24,14 @@ public class CustomerServiceApplication {
 
 			List<Customer> customerList=List.of(
 					Customer.builder()
-							.firstName("Hassan")
-							.lastName("Elhoumi")
-							.email("hassan@gmail.com")
+							.firstName("Oussama")
+							.lastName("Kharbouxh")
+							.email("Oussama@gmail.com")
 							.build(),
 					Customer.builder()
-							.firstName("Mohamed")
-							.lastName("Elhannaoui")
-							.email("hassan@gmail.com")
+							.firstName("Amine")
+							.lastName("elayadi")
+							.email("Amine@gmail.com")
 							.build()
 
 			);
